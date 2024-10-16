@@ -1,0 +1,12 @@
+# Ignore node_modules in server folder
+/server/node_modules/
+
+# Ignore build and distribution directories
+/server/build/
+/server/dist/
+
+# Ignore environment variable files
+/server/.env
+
+# Ignore log files
+/server/logs/
